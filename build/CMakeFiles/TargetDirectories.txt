@@ -1,0 +1,3 @@
+/Users/samif0/Projects/pktcap/build/CMakeFiles/analyzer.dir
+/Users/samif0/Projects/pktcap/build/CMakeFiles/edit_cache.dir
+/Users/samif0/Projects/pktcap/build/CMakeFiles/rebuild_cache.dir
